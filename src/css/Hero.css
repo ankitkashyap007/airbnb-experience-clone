@@ -1,0 +1,11 @@
+.hero{
+    font-family: "poppins",sans-serif;
+    /* background-color: blueviolet; */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.hero > img {
+    max-width: 500px;
+    align-self: center;
+}
